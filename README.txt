@@ -1,0 +1,1 @@
+เปิด index.html เพื่อทดสอบเว็บไซต์\nแก้สินค้า/ราคาได้ในตัวแปร p ใน index.html\nอัปโหลด index.html + hero.png ขึ้น GitHub Pages ได้\n
